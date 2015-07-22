@@ -1,5 +1,7 @@
 # networkinterface-compare
 
+[![Build Status](https://travis-ci.org/rsolomo/networkinterface-compare.svg?branch=master)](https://travis-ci.org/rsolomo/networkinterface-compare)
+
 networkinterface-compare is a comparison function for network interface names.
 
 Using applications where network interface names are sorted like this can be undesirable:
