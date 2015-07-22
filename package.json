@@ -1,0 +1,30 @@
+{
+  "name": "networkinterface-compare",
+  "version": "1.0.0",
+  "description": "Comparison function for network interface names",
+  "main": "networkinterface-compare.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ray Solomon <raybsolomon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsolomo/networkinterface-compare.git"
+  },
+  "keywords": [
+    "compare",
+    "networkinterface"
+  ],
+  "bugs": {
+    "url": "https://github.com/rsolomo/networkinterface-compare/issues"
+  },
+  "homepage": "https://github.com/rsolomo/networkinterface-compare#readme"
+}
